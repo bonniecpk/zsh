@@ -7,6 +7,4 @@ export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 
 export REPOS='/Users/pchui/development/repos'
 
-alias vi='mvim'
 alias repos='cd $REPOS'
-alias hb='cd $REPOS/handybook'
